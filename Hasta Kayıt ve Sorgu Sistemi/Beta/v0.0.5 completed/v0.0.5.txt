@@ -1,0 +1,10 @@
+######## v0.0.5 ########
+
+TÜM ÖZELLÝKLER:
+**Hasta kayýt etme, silme aratma, güncelleme
+**Hasta geçmiþi kayýt etme, sorgulama
+
+FÝXLENEN BUGLAR:
+**Küçük mantýk hatalarý giderildi
+**Arayüzdeki bazý bozukluklar giderildi
+**Listbox içindeki cell width leri geniþletildi

@@ -1,0 +1,3 @@
+**Güncelleme sonrasý alt bar kayboluyor.
+**Arama bölümünde kadýný bulmuyor
+**Alt bar biraz daha küçük olacak

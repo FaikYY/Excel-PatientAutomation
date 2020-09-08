@@ -1,0 +1,10 @@
+######## v0.0.4 ########
+
+ÖZELLÝKLER:
+**ÖNEMLÝ ÖZELLÝK, HASTA GEÇMÝÞÝ ARAMA SAYFASI EKLENDÝ
+**Hasta geçmiþi aratýlabilir, silinebilir
+**Liste seçimi varsa sýfýrlayýp kayýtý o þekilde yapabilir, karýþýkklýðý önler
+
+EKSÝKLER:
+**Modüller class lar halinde kategorize edilmeli
+**Save modülü kodlarý temizlenmeli
